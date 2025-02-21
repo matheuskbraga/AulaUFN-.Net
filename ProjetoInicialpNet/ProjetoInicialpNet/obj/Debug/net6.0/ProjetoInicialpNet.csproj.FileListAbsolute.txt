@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\bin\Debug\net6.0\ProjetoInicialpNet.exe
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\bin\Debug\net6.0\ProjetoInicialpNet.deps.json
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\bin\Debug\net6.0\ProjetoInicialpNet.runtimeconfig.json
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\bin\Debug\net6.0\ProjetoInicialpNet.dll
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\bin\Debug\net6.0\ProjetoInicialpNet.pdb
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.dll
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\refint\ProjetoInicialpNet.dll
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.pdb
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ProjetoInicialpNet.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\ProjetoInicialpNet\ProjetoInicialpNet\obj\Debug\net6.0\ref\ProjetoInicialpNet.dll
