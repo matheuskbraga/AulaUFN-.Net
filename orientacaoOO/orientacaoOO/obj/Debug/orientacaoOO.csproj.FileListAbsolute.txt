@@ -1,0 +1,8 @@
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\bin\Debug\orientacaoOO.exe.config
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\bin\Debug\orientacaoOO.exe
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\bin\Debug\orientacaoOO.pdb
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\obj\Debug\orientacaoOO.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\obj\Debug\orientacaoOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\obj\Debug\orientacaoOO.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\obj\Debug\orientacaoOO.exe
+C:\Users\laboratorio\source\repos\orientacaoOO\orientacaoOO\obj\Debug\orientacaoOO.pdb
